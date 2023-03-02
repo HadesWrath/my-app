@@ -1,6 +1,9 @@
 <script>
-    import Navigation from '$lib/navigation.svelte';
+    import './style.css'
+    import Poketitle from '$lib/poketitle.svelte';
 </script>
 
-<Navigation /> 
-<slot />
+<Poketitle /> 
+<footer>
+    Whos that Pokemon @ Hayden Smith 2023
+</footer>
