@@ -1,3 +1,7 @@
-<figure class="scrolling-map">
+<!-- Javascript -->
+
+
+<!-- HTML -->
+<main>
     <img src="fire red map.png" alt=""/>   
-</figure>
+</main>

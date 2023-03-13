@@ -4,8 +4,9 @@
     import ScrollingMap from '$lib/scrollingMap.svelte';
 </script>
 
-<Poketitle /> 
+<Poketitle />
 <ScrollingMap />
+
 <footer>
     Whos that Pokemon @ Hayden Smith 2023
 </footer>

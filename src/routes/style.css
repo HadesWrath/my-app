@@ -17,6 +17,18 @@ body{
 footer{
 
 }
-.scrolling-map img{
-    clip-path: view-box inset(384px 319px);
+
+scrolling-map main{
+    height: 1vh;
+    width: 1vw;
+    padding: 0;
+    border: 0;
+}
+
+scrolling-map img{
+    clip-path: polygon(0% 0%, 0% 4.984%, 5.883% 4.984%, 5.883% 0%);
+}
+
+img{
+    width: 100%;
 }
