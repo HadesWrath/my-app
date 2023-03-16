@@ -1,34 +1,6 @@
-@font-face {
-    font-family: Pokemon Hollow;
-    src: url('../lib/fonts/pokemon_hollow-webfont.woff') format('woff');
-    src: url('../lib/fonts/pokemon_hollow-webfont.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
-}
-
-h1{
-    font-family: "Pokemon Hollow";
-}
 
 body{
-    
-}
-
-footer{
-
-}
-
-scrolling-map main{
-    height: 1vh;
-    width: 1vw;
-    padding: 0;
-    border: 0;
-}
-
-scrolling-map img{
-    clip-path: polygon(0% 0%, 0% 4.984%, 5.883% 4.984%, 5.883% 0%);
-}
-
-img{
-    width: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
 }
