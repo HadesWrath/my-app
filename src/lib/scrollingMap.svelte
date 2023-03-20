@@ -1,11 +1,6 @@
 <!-- Javascript -->
 <script>
-    import { tweened } from 'svelte/motion';
-    let styles = {
 
-    }
-    let mapX = tweened(0);
-    let mapY = tweened(-200);
 </script>
 
 <!-- HTML -->
