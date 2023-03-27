@@ -4,9 +4,7 @@
 </script>
 
 <section>
-    <img src="" alt="">
-    <input type="text">
-    <button on:click={}>Guess</button>
+    <p>Future game</p>
 </section>
 
 <style>

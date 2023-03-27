@@ -1,4 +1,9 @@
+<script>
+  import ScrollingMap from "$lib/scrollingMap.svelte";
+</script>
+
 <!-- html -->
-<body>
-    
-</body>
+<main>
+  <ScrollingMap />
+  <a class="button" href="/game">Play</a>
+</main>
