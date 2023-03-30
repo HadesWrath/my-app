@@ -1,9 +1,11 @@
 <script>
   import "./style.css";
-  import Poketitle from "$lib/poketitle.svelte";
 </script>
 
-<Poketitle />
-<slot />
+<main>
+  <slot />
+</main>
 
-<footer>Whos that Pokemon @ Hayden Smith 2023</footer>
+<style>
+
+</style>

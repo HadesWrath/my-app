@@ -1,25 +1,24 @@
 <!-- Javascript -->
 <script>
+
 </script>
 
 <!-- HTML -->
-<main>
-  <img src="fire red map.png" alt="" />
-</main>
+<section>
+  <button>
+    <a href="/game">Play
+  </button>
+</section>
 
 <!-- CSS -->
 <style>
-  main {
-    height: 100vh;
-    width: 100vw;
+  section {
     padding: 0;
     border: 0;
+    background-image: url("/map segments/pewter city.png");
+    display: flex;
+    justify-content: center;
+    height: 100%;
   }
 
-  img {
-    overflow: hidden;
-    object-fit: none;
-    width: 100%;
-    object-position: 0px 0px;
-  }
 </style>
